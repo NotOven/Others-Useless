@@ -1,3 +1,0 @@
-repeat task.wait() until game:IsLoaded()
-
-game.Players.LocalPlayer:Kick('                           You Have Been Banned From This Experience                                                                                    Reason: Exploiting                                                                 Duration: 9999999999999')
